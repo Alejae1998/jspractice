@@ -1,4 +1,4 @@
-// import functions and grab DOM elements
+import { cats } from "./cats.js";// import functions and grab DOM elements
 
 // let state
 

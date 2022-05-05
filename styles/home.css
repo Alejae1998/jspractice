@@ -1,1 +1,16 @@
 /* add home page styles here */
+.dog {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 5px solid black;
+  padding: 20px;
+
+}
+
+.dog img {
+  width: 100%;
+  border-radius: 50%;
+  
+}
