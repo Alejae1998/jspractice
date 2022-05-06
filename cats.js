@@ -1,1 +1,6 @@
-export const cats = [{name: 'aby', age: 3 }];
+export const cats = [
+    {
+        name: 'aby',
+        age: 3,
+    },
+];
