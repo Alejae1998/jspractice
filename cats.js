@@ -1,6 +1,6 @@
 export const cats = [
     {
-        name: 'aby',
+        name: '../assets/aby.webp',
         age: 3,
     },
 ];

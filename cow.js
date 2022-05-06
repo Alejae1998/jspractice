@@ -1,7 +1,6 @@
 export const cow = [
     {
-        name: 'maggie',
+        name: '../assets/maggie.webp',
         age: 1,
-        
     },
 ];
