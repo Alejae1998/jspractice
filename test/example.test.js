@@ -40,5 +40,5 @@ test('test cow render function', (expect) => {
 test('test animal render function', (expect) => {
     const expected = '';
     const actual = renderAnimal(animals[0]);
-    expect.deepEqual(actual.outerHTML, expected);
+    expect.equal(actual.outerHTML, expected);
 });

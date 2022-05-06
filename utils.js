@@ -1,4 +1,4 @@
-import { animals } from './animals';
+
 
 export function renderCat(cat) {
     const div = document.createElement('div');
@@ -26,7 +26,7 @@ export function renderCow(cow) {
     return div;
 }
 
-export function renderAnimal(animal) {
+export function renderAnimal(animals) {
     const div = document.createElement('div');
     div.classList.add('animal');
     const ul = document.createElement('ul');
